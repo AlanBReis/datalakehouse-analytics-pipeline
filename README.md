@@ -32,8 +32,8 @@ Os dados utilizados no projeto são públicos e simulam um ambiente corporativo 
 - **Delta Lake**: formato de armazenamento transacional otimizado para análise de dados.
 - **Apache Spark (PySpark)**: motor de processamento distribuído para tratamento e transformação de dados.
 - **Power BI**: ferramenta de visualização e exploração dos dados.
-- **Azure Data Lake Storage** (opcional): armazenamento de dados brutos.
-- **GitHub Actions** (opcional): automação de deploy e versionamento de código.
+- **Azure Data Lake Storage** : armazenamento de dados brutos.
+- **GitHub Actions** : automação de deploy e versionamento de código.
 
 ---
 
